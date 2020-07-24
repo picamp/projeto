@@ -5,8 +5,10 @@
 - [ ] Bateria ou powerbank
 - [x] teclado + trackpad
 - [ ] Cabos e conectores
-- Carcaça
+- [ ] Carcaça
     - [ ] Apoio e proteção da tela
     - [ ] Caixa para colocação do raspberry
     - [ ] Tampa com encaixe para o teclado
     - [ ] Dobradiça para unir tela ao corpo do aparelho   
+
+> Os tópicos marcados já foram escolhidos
