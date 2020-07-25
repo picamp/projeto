@@ -1,7 +1,7 @@
 # A seguir está listado o equipamento essencial para a montagem do dispositivo (raspberry pi notebook)
 
 - [ ] Raspberry Pi 4B
-- [ ] Tela, de preferência com 9" ou mais
+- [x] Tela, de preferência com 9" ou mais
 - [ ] Bateria ou powerbank
 - [x] teclado + trackpad - USD 15,80
 - [ ] Cabos e conectores
