@@ -7,3 +7,4 @@
         * Ao menos 9 polegadas
         * Inicialmente ter a resolução minima de 1020x600
         * Ter alimentação de energia a partir de fonte usb (HDMI-MIPI driver board)
+* [Protetor de cabo flat (questionar necessidade)](https://www.aliexpress.com/item/32863322723.html)

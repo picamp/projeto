@@ -10,8 +10,9 @@
     - [ ] Caixa para colocação do raspberry
     - [ ] Tampa com encaixe para o teclado
     - [ ] Dobradiça para unir tela ao corpo do aparelho   
+    - [ ] **(?)** - Protetor cabo flat (sleeve) 
 
-### Total parcial: *USD 15,80*
+### Total parcial: **USD 15,80**
 
 * Os tópicos marcados já foram escolhidos
     * Os link desses itens estão no arquivo [ShopList.md](https://github.com/picamp/projeto/blob/master/ShopList.md)
