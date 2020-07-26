@@ -9,7 +9,7 @@
     - [ ] Apoio e proteção da tela
     - [ ] Caixa para colocação do raspberry
     - [ ] Tampa com encaixe para o teclado
-    - [ ] Dobradiça para unir tela ao corpo do aparelho   
+    - [ ] Dobradiça para unir tela ao corpo do aparelho (self closing hinge) 
     - [ ] **(?)** - Protetor cabo flat (sleeve) 
 
 ### Total parcial: **USD 15,80**
