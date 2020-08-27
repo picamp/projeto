@@ -1,6 +1,6 @@
 # A seguir está listado o equipamento essencial para a montagem do dispositivo (raspberry pi notebook)
 
-- [ ] Raspberry Pi 4B
+- [x] Raspberry Pi 4B - USD 86,33
 - [x] Tela, de preferência com 9" ou mais
 - [ ] Bateria ou powerbank
 - [x] teclado + trackpad - USD 15,80
@@ -11,7 +11,7 @@
     - [ ] Tampa com encaixe para o teclado
     - [ ] Dobradiça para unir tela ao corpo do aparelho   
 
-### Total parcial: *USD 15,80*
+### Total parcial: *USD 102,13*
 
 * Os tópicos marcados já foram escolhidos
     * Os link desses itens estão no arquivo [ShopList.md](https://github.com/picamp/projeto/blob/master/ShopList.md)
