@@ -7,3 +7,4 @@
         * Ao menos 9 polegadas
         * Inicialmente ter a resolução minima de 1020x600
         * Ter alimentação de energia a partir de fonte usb (HDMI-MIPI driver board)
+* [Raspberry PI 4 4GB - Aliexpress](https://pt.aliexpress.com/item/4000054541849.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&tt=MG&aff_request_id=e0570e2b545349a6b27847ee46253630-1598489176318-01695-_dW0li70&aff_platform=default&sk=_dW0li70&mergeHashcode=37884102176&description=US+%2441.56++18%25OFF+%7C+New+Original+Official+Raspberry+Pi+4+Model+B+RAM+2G4G8G+4+Core+1.5Ghz+4K+Micro+HDMI+Pi4B+3+Speed+than+Raspberr+Pi+3B%2B&aff_trace_key=e0570e2b545349a6b27847ee46253630-1598489176318-01695-_dW0li70&businessType=ProductDetail&title=US+%2441.56++18%25OFF+%7C+New+Original+Official+Raspberry+Pi+4+Model+B+RAM+2G4G8G+4+Core+1.5Ghz+4K+Micro+HDMI+Pi4B+3+Speed+than+Raspberr+Pi+3B%2B&platform=AE&terminal_id=2e896b9264374fed9f42392615648123&templateKey=white_backgroup_101)
